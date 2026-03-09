@@ -38,11 +38,18 @@ Une introduction à la Programmation Orientée Objet.
 - **Langage** : Ruby 3.x  
 - **Gestion de version** : Git (rebase interactif, patch, commits atomiques)
 
-<p align="center">
+---
+
+<p align="center" style="margin-top: 15px;">
   <a href="https://www.linkedin.com/in/gwenhael-le-thiec/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      style="margin-right: 8px;"
+    />
   </a>
   <a href="https://myportfolio-by-swennsco.online/">
-    <img src="https://img.shields.io/badge/Portfolio-bc13fe?style=for-the-badge&logo=bagage&logoColor=white" />
+    <img 
+      src="https://img.shields.io/badge/Portfolio-bc13fe?style=for-the-badge&logo=react&logoColor=white" 
+    />
   </a>
 </p>
