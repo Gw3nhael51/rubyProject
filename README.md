@@ -1,5 +1,10 @@
 # 💎 Mes Premiers Pas en Ruby
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+</p>
+
+
 Bienvenue dans mon premier dépôt d'apprentissage du langage Ruby ! 
 Ce projet regroupe mes premiers exercices pratiques pour maîtriser la logique algorithmique et les bases de la Programmation Orientée Objet (POO) avec Ruby.
 
